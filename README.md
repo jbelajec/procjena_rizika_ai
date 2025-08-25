@@ -5,11 +5,11 @@ Za pokretanje projekta je potrebno napraviti projekt u proizvoljnom Python IDE. 
 U datoteci gdje se nalazi projekt je prvo potrebno instalirati potrebne biblioteke i pakete. Oni su navedeni u fileu "requirements.txt".
 
 Potrebno je otvoriti komandno sučelje cmd i u njemu napisati sljedeće naredbe:
-.venv\Scripts\activate.bat
-pip install -r requirements.txt
-pip install jupyterlab
-pip install notebook
+* .venv\Scripts\activate.bat
+* pip install -r requirements.txt
+* pip install jupyterlab
+* pip install notebook
 
 Nakon što su ovi koraci odrađeni se može pokrenuti Jupyter Notebook, koji je potreban za rad sa priloženim kodom.
 On se pokreće sljedećom komandom:
-jupyter notebook
+* jupyter notebook
